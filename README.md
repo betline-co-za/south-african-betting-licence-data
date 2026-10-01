@@ -1,6 +1,6 @@
 # South African Betting Licence Data
 
-Structured company and bookmaker licence information for locally licensed South African betting sites, maintained by [Betline.co.za](https://betline.co.za/).
+Structured company and bookmaker licence information for locally licensed South African betting sites, maintained by Betline.co.za.
 
 ## About
 
@@ -86,8 +86,8 @@ Betline.co.za is operated under [ZEVGOSA](https://zevgosa.co.za/) and is a membe
 
 Each betting site record includes a link to its corresponding operator profile on Betline.co.za, where additional information about the betting site is available.
 
-**Publisher:** [Betline.co.za](https://betline.co.za/)  
+**Publisher:** Betline.co.za  
 **Founder and operator:** [Fanie Zevgolis](https://www.linkedin.com/in/faniezevgolis/)  
-**Operated under:** [ZEVGOSA](https://zevgosa.co.za/)  
+**Operated under:** ZEVGOSA  
 **Proudly South African:** [View membership certificate](https://zevgosa.co.za/wp-content/uploads/2026/04/zevgosa-proudly-south-african-certificate.pdf)  
 **Country:** South Africa
