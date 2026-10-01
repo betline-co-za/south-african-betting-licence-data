@@ -66,6 +66,8 @@ Bookmaker licence information is checked against information published by South 
 
 Legal company names and company registration numbers are checked against records available through the Companies and Intellectual Property Commission (CIPC).
 
+Licence number formats vary between provincial gambling authorities. In some regulatory records, the identifier used for a bookmaker may correspond with the legal entity's company registration number rather than a separate traditional licence number.
+
 Information published by the betting site or legal entity may also be used when identifying the company and bookmaker licence associated with a betting site.
 
 Licence, company and regulatory information can change. Information in this repository should therefore not be treated as a substitute for confirmation from the relevant South African gambling authority or CIPC.
