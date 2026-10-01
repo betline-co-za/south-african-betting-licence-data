@@ -88,4 +88,12 @@ Betline.co.za is operated under [ZEVGOSA](https://zevgosa.co.za/) and is a membe
 **Founder and operator:** [Fanie Zevgolis](https://www.linkedin.com/in/faniezevgolis/)  
 **Operated under:** ZEVGOSA  
 **Proudly South African:** [View membership certificate](https://zevgosa.co.za/wp-content/uploads/2026/04/zevgosa-proudly-south-african-certificate.pdf)  
-**Country:** South Africa
+**Country:** South Africa  
+
+## Licence  
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence.  
+
+When using or redistributing this dataset, attribution should be given to Betline.co.za as the source.  
+
+See the [LICENSE](LICENSE) file for the full licence terms.
