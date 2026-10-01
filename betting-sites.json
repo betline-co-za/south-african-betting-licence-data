@@ -1,0 +1,1037 @@
+{
+  "name": "Betline South African Betting Site Licence Data",
+  "publisher": {
+    "name": "Betline",
+    "url": "https://betline.co.za"
+  },
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "lastUpdated": "2026-10-01",
+  "bettingSites": [
+    {
+      "bettingSite": "Betway",
+      "companies": [
+        {
+          "companyName": "Raging River Trading (Pty) Ltd",
+          "companyRegistrationNumber": "2011/134505/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10181496-012"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betway/"
+    },
+    {
+      "bettingSite": "Hollywoodbets",
+      "companies": [
+        {
+          "companyName": "Hollywood Sportsbook Western Cape (Pty) Ltd",
+          "companyRegistrationNumber": "2008/011/557/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10000107-029"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/hollywoodbets/"
+    },
+    {
+      "bettingSite": "Carousel",
+      "companies": [
+        {
+          "companyName": "Carousel Bet (Pty) Ltd",
+          "companyRegistrationNumber": "2022/4591/07",
+          "licences": [
+            {
+              "province": "North West",
+              "gamblingBoard": "North West Gambling Board",
+              "licenceNumber": "2022/4591/07"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/carousel/"
+    },
+    {
+      "bettingSite": "WorldofSport",
+      "companies": [
+        {
+          "companyName": "Marshalls World of Sport KZN 2 (Pty) Ltd",
+          "companyRegistrationNumber": "2001/023647/07",
+          "licences": [
+            {
+              "province": "Kwa-Zulu Natal",
+              "gamblingBoard": "Kwa-Zulu Natal Economic Regulator",
+              "licenceNumber": "2001/023647/07"
+            },
+            {
+              "province": "Kwa-Zulu Natal",
+              "gamblingBoard": "Kwa-Zulu Natal Gaming and Betting Board",
+              "licenceNumber": "2001/023647/07"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/marshalls-world-of-sport/"
+    },
+    {
+      "bettingSite": "Betify",
+      "companies": [
+        {
+          "companyName": "Betify (Pty) Ltd T/A Betify",
+          "companyRegistrationNumber": "2024/630546/07",
+          "licences": [
+            {
+              "province": "Eastern Cape",
+              "gamblingBoard": "Eastern Cape Gambling Board",
+              "licenceNumber": "ECBM 032"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betify/"
+    },
+    {
+      "bettingSite": "LuckyStake",
+      "companies": [
+        {
+          "companyName": "K2025281680 (Pty) Ltd",
+          "companyRegistrationNumber": "2025/81680/07",
+          "licences": [
+            {
+              "province": "Eastern Cape",
+              "gamblingBoard": "Eastern Cape Gambling Board",
+              "licenceNumber": "ECBM 038"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/luckystake/"
+    },
+    {
+      "bettingSite": "10bet",
+      "companies": [
+        {
+          "companyName": "Edcobrite (Pty) Ltd",
+          "companyRegistrationNumber": "2022/247292/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09661"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/10bet/"
+    },
+    {
+      "bettingSite": "spinabetslots",
+      "companies": [
+        {
+          "companyName": "CRUDazest (Pty) Ltd",
+          "companyRegistrationNumber": "2022/750613/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10192588"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/spin-a-bet/"
+    },
+    {
+      "bettingSite": "YesPlay",
+      "companies": [
+        {
+          "companyName": "SA Sportsbook (Pty) Ltd t/a YesPlay",
+          "companyRegistrationNumber": "2013/016123/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10180204-013"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/yesplay/"
+    },
+    {
+      "bettingSite": "Easybet",
+      "companies": [
+        {
+          "companyName": "Easybet Group EC (Pty) Ltd",
+          "companyRegistrationNumber": "2024/745057/07",
+          "licences": [
+            {
+              "province": "Eastern Cape",
+              "gamblingBoard": "Eastern Cape Gambling Board",
+              "licenceNumber": "ECBM 029"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/easybet/"
+    },
+    {
+      "bettingSite": "Bet",
+      "companies": [
+        {
+          "companyName": "Betcoza Online (Pty) Ltd",
+          "companyRegistrationNumber": "2010/005430/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10179096-014"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betcoza/"
+    },
+    {
+      "bettingSite": "Gbets",
+      "companies": [
+        {
+          "companyName": "Dymanex (Pty) Ltd",
+          "companyRegistrationNumber": "2012/121966/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "9-2-1-09853"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/gbets/"
+    },
+    {
+      "bettingSite": "JackpotCity",
+      "companies": [
+        {
+          "companyName": "Eastern Dawn Sports (Pty) Ltd",
+          "companyRegistrationNumber": "2021/915692/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09658"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/jackpotcity/"
+    },
+    {
+      "bettingSite": "Supabets",
+      "companies": [
+        {
+          "companyName": "Portapa 2 (Pty) Ltd",
+          "companyRegistrationNumber": "2009/016148/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-00055"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/supabets/"
+    },
+    {
+      "bettingSite": "Goldrush",
+      "companies": [
+        {
+          "companyName": "Kerlifon (Pty) Limited",
+          "companyRegistrationNumber": "2014/035259/07",
+          "licences": [
+            {
+              "province": "Northern Cape",
+              "gamblingBoard": "Northern Cape Gambling Board",
+              "licenceNumber": "2014/035259/07"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/goldrush/"
+    },
+    {
+      "bettingSite": "Playabets",
+      "companies": [
+        {
+          "companyName": "Playabets MP (Pty) Ltd",
+          "companyRegistrationNumber": "2022/712478/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09689"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/playabets/"
+    },
+    {
+      "bettingSite": "Lulabet",
+      "companies": [
+        {
+          "companyName": "Lula Bets (Pty) Ltd",
+          "companyRegistrationNumber": "2018/557108/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10190073-006"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/lulabet/"
+    },
+    {
+      "bettingSite": "Sportpesa",
+      "companies": [
+        {
+          "companyName": "SportPesa (Pty) Ltd",
+          "companyRegistrationNumber": "2015/321094/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10183090-006"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/sportpesa/"
+    },
+    {
+      "bettingSite": "BetOlimp",
+      "companies": [
+        {
+          "companyName": "O L I M P (Pty) Ltd",
+          "companyRegistrationNumber": "2007/024997/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10138042-020"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betolimp/"
+    },
+    {
+      "bettingSite": "WorldSportsBetting",
+      "companies": [
+        {
+          "companyName": "WSB FS (Pty) Ltd",
+          "companyRegistrationNumber": "018/498267/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09865"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/world-sports-betting/"
+    },
+    {
+      "bettingSite": "TicTacBets",
+      "companies": [
+        {
+          "companyName": "Vengies Gaming (PTY) Ltd",
+          "companyRegistrationNumber": "2012/050393/07",
+          "licences": [
+            {
+              "province": "Northern Cape",
+              "gamblingBoard": "Northern Cape Gambling and Liquor Board",
+              "licenceNumber": "NCGLB-BM.2025/01"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/tictac-bets/"
+    },
+    {
+      "bettingSite": "Betfred",
+      "companies": [
+        {
+          "companyName": "Betting World (Pty) Ltd",
+          "companyRegistrationNumber": "2000/008649/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-00039"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betfred/"
+    },
+    {
+      "bettingSite": "ReadySetBet",
+      "companies": [
+        {
+          "companyName": "Kalmia Trading 1085 (Pty) Ltd",
+          "companyRegistrationNumber": "2017/167101/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09973"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/soccershop/"
+    },
+    {
+      "bettingSite": "Pokerbet",
+      "companies": [
+        {
+          "companyName": "Pokerbet License Co (Pty) Ltd",
+          "companyRegistrationNumber": "2023/531761/07",
+          "licences": [
+            {
+              "province": "Northern Cape",
+              "gamblingBoard": "Northern Cape Gambling Board",
+              "licenceNumber": "NCGB-BM.2023/01"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/pokerbet/"
+    },
+    {
+      "bettingSite": "Betshezi",
+      "companies": [
+        {
+          "companyName": "SMP Gaming (Pty) Ltd",
+          "companyRegistrationNumber": "2021/964248/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10191121-004"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betshezi/"
+    },
+    {
+      "bettingSite": "Topbet",
+      "companies": [
+        {
+          "companyName": "Hatsy Pty Ltd t/a Topbet",
+          "companyRegistrationNumber": "2021/ 566466/ 07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10190445-004"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/topbet/"
+    },
+    {
+      "bettingSite": "Sunbet",
+      "companies": [
+        {
+          "companyName": "SUNBET (Pty) Ltd",
+          "companyRegistrationNumber": "2008/014410/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09789"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/sunbet/"
+    },
+    {
+      "bettingSite": "Jabulabets",
+      "companies": [
+        {
+          "companyName": "Jabula Bets (Pty) Ltd",
+          "companyRegistrationNumber": "2021/518797/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Racing and Gambling Board",
+              "licenceNumber": "10190512"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/jabulabets/"
+    },
+    {
+      "bettingSite": "LottoLand",
+      "companies": [
+        {
+          "companyName": "Lottoland South Africa (Pty) Ltd",
+          "companyRegistrationNumber": "2017/270162/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Racing and Gambling Board",
+              "licenceNumber": "10185705"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/lottoland/"
+    },
+    {
+      "bettingSite": "ScoreBet",
+      "companies": [
+        {
+          "companyName": "Deeps Betting Grounds (Pty) Ltd",
+          "companyRegistrationNumber": "2013/122709/07",
+          "licences": [
+            {
+              "province": "Northern Cape",
+              "gamblingBoard": "Northern Cape Gambling Board",
+              "licenceNumber": "013/122709/07"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/scorebet/"
+    },
+    {
+      "bettingSite": "Play",
+      "companies": [
+        {
+          "companyName": "Betflash (Pty) LTD",
+          "companyRegistrationNumber": "2011/135672/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10172287-012"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/play/"
+    },
+    {
+      "bettingSite": "LottoStar",
+      "companies": [
+        {
+          "companyName": "LottoStar (Pty) Ltd",
+          "companyRegistrationNumber": "2007/011071/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09467"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/lottostar/"
+    },
+    {
+      "bettingSite": "Playbet",
+      "companies": [
+        {
+          "companyName": "Playbet Mpumalanga (Pty) Ltd",
+          "companyRegistrationNumber": "2016/298688/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-00090"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/playbet/"
+    },
+    {
+      "bettingSite": "MorrisVee",
+      "companies": [
+        {
+          "companyName": "Morris Vee Sports Bet (Pty) Ltd",
+          "companyRegistrationNumber": "2019/614872/07",
+          "licences": [
+            {
+              "province": "KwaZulu-Natal",
+              "gamblingBoard": "KwaZulu-Natal Gaming and Betting Board",
+              "licenceNumber": "BOM0006"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/morrisvee/"
+    },
+    {
+      "bettingSite": "VegasBets",
+      "companies": [
+        {
+          "companyName": "Somerset Tattersalls CC",
+          "companyRegistrationNumber": "1997/058345/23",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10010453"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/vegasbets/"
+    },
+    {
+      "bettingSite": "eBet",
+      "companies": [
+        {
+          "companyName": "Ebet (Pty) Ltd",
+          "companyRegistrationNumber": "2022/469504/07",
+          "licences": [
+            {
+              "province": "Eastern Cape",
+              "gamblingBoard": "Eastern Cape Gambling Board",
+              "licenceNumber": "ECBM 032"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/ebet/"
+    },
+    {
+      "bettingSite": "Mbet",
+      "companies": [
+        {
+          "companyName": "MBET International (Pty) Ltd",
+          "companyRegistrationNumber": "1998/023845/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10189800-001"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/mbet/"
+    },
+    {
+      "bettingSite": "OneBet",
+      "companies": [
+        {
+          "companyName": "OneBet (Pty) Ltd",
+          "companyRegistrationNumber": "2022/469504/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10191936"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/onebet/"
+    },
+    {
+      "bettingSite": "YourBet",
+      "companies": [
+        {
+          "companyName": "Score-A-Lot EC (Pty) Ltd",
+          "companyRegistrationNumber": "2021/915678/07",
+          "licences": [
+            {
+              "province": "Eastern Cape",
+              "gamblingBoard": "Eastern Cape Gambling Board",
+              "licenceNumber": "ECBM 020/02"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/yourbet/"
+    },
+    {
+      "bettingSite": "AllStars",
+      "companies": [
+        {
+          "companyName": "All Stars Sports Betting Mpumalanga (Pty) Ltd",
+          "companyRegistrationNumber": "2021/787829/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09695"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/allstarsbet/"
+    },
+    {
+      "bettingSite": "betXchange",
+      "companies": [
+        {
+          "companyName": "betXchange.Com (Pty) Ltd",
+          "companyRegistrationNumber": "2025/344450/07",
+          "licences": [
+            {
+              "province": "Eastern Cape",
+              "gamblingBoard": "Eastern Cape Gambling Board",
+              "licenceNumber": "ECBM 041"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betxchange/"
+    },
+    {
+      "bettingSite": "WanejoBets",
+      "companies": [
+        {
+          "companyName": "Wanejo Technology (Pty) Ltd",
+          "companyRegistrationNumber": "2016/038364/07",
+          "licences": [
+            {
+              "province": "Eastern Cape",
+              "gamblingBoard": "Eastern Cape Gambling Board",
+              "licenceNumber": "ECBM017"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/wanejobets/"
+    },
+    {
+      "bettingSite": "KingBets",
+      "companies": [
+        {
+          "companyName": "King Bets (Pty) Ltd",
+          "companyRegistrationNumber": "2015/051316/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10181847-012"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/kingbets/"
+    },
+    {
+      "bettingSite": "SuperSportBet",
+      "companies": [
+        {
+          "companyName": "SuperSportBet (Pty) Ltd",
+          "companyRegistrationNumber": "2021/962295/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10191097"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/supersportbet/"
+    },
+    {
+      "bettingSite": "FirstBet",
+      "companies": [
+        {
+          "companyName": "Banzostar (Pty) Ltd",
+          "companyRegistrationNumber": "2016/131538/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10185107"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/firstbet/"
+    },
+    {
+      "bettingSite": "BettaBets",
+      "companies": [
+        {
+          "companyName": "Bettagaming Mpumalanga (Pty) Ltd",
+          "companyRegistrationNumber": "2011/123025/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09303"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/bettabets/"
+    },
+    {
+      "bettingSite": "Sportingbet",
+      "companies": [
+        {
+          "companyName": "Greatodds (Pty) Ltd",
+          "companyRegistrationNumber": "2012/187650/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10125193-019"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/sportingbet/"
+    },
+    {
+      "bettingSite": "MzansiBet",
+      "companies": [
+        {
+          "companyName": "SMS2Bet Betting Services (Pty) Ltd",
+          "companyRegistrationNumber": "2009/007749/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10144175-016"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/mzansibet/"
+    },
+    {
+      "bettingSite": "Interbet",
+      "companies": [
+        {
+          "companyName": "Interbet International (Pty) Ltd",
+          "companyRegistrationNumber": "2000/011570/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10083472-023"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/interbet/"
+    },
+    {
+      "bettingSite": "Afribet",
+      "companies": [
+        {
+          "companyName": "Slipknot Investments 48 (Pty) Ltd",
+          "companyRegistrationNumber": "2000/009602/07",
+          "licences": [
+            {
+              "province": "North West",
+              "gamblingBoard": "North West Gambling Board",
+              "licenceNumber": "JOH-078"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/afribet/"
+    },
+    {
+      "bettingSite": "TAB",
+      "companies": [
+        {
+          "companyName": "4Racing (Pty) Ltd",
+          "companyRegistrationNumber": "2020/099054/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": " Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09583"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/tab/"
+    },
+    {
+      "bettingSite": "ZARbet",
+      "companies": [
+        {
+          "companyName": "Apollo Gaming (Pty) Ltd",
+          "companyRegistrationNumber": "2024/307627/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10010581-031"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/zarbet/"
+    },
+    {
+      "bettingSite": "playTSOGO",
+      "companies": [
+        {
+          "companyName": "PLAY TSOGO (Pty) Ltd",
+          "companyRegistrationNumber": "2017/407820/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10190075-06"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/playtsogo/"
+    },
+    {
+      "bettingSite": "Pantherbet",
+      "companies": [
+        {
+          "companyName": "Ubuntu Quantum (Pty) Ltd",
+          "companyRegistrationNumber": "2024/237862/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10194613-001"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/pantherbet/"
+    },
+    {
+      "bettingSite": "LuckyFish",
+      "companies": [
+        {
+          "companyName": "Race Coast Western Cape (Pty) Ltd",
+          "companyRegistrationNumber": "2011/008903/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10192071-003"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/luckyfish/"
+    },
+    {
+      "bettingSite": "NEObet",
+      "companies": [
+        {
+          "companyName": "Greenvest Betting (Pty) Ltd",
+          "companyRegistrationNumber": "2024/414515/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10195102-001"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/neobet/"
+    },
+    {
+      "bettingSite": "SwiftySports",
+      "companies": [
+        {
+          "companyName": "Swifty Africa (Pty) Ltd",
+          "companyRegistrationNumber": "2023/771126/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "licenceNumber": "10193252-002"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/swiftysports/"
+    },
+    {
+      "bettingSite": "VirginBet",
+      "companies": [
+        {
+          "companyName": "VB South Africa (Pty) Ltd",
+          "companyRegistrationNumber": "2024/318645/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09938"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/virgin-bet/"
+    },
+    {
+      "bettingSite": "Bravobet",
+      "companies": [
+        {
+          "companyName": "AJ Tattersalls (Pty) Ltd",
+          "companyRegistrationNumber": "2023/132006/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10010857-030"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/bravobet/"
+    },
+    {
+      "bettingSite": "ApexBets",
+      "companies": [
+        {
+          "companyName": "Letsbet (Pty) Ltd",
+          "companyRegistrationNumber": "2023/963735/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10194002-001"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/apex-bets/"
+    }
+  ]
+}
