@@ -84,8 +84,6 @@ This dataset is maintained by [Betline.co.za](https://betline.co.za/), an indepe
 
 Betline.co.za is operated under [ZEVGOSA](https://zevgosa.co.za/) and is a member of Proudly South African.
 
-Each betting site record includes a link to its corresponding operator profile on Betline.co.za, where additional information about the betting site is available.
-
 **Publisher:** Betline.co.za  
 **Founder and operator:** [Fanie Zevgolis](https://www.linkedin.com/in/faniezevgolis/)  
 **Operated under:** ZEVGOSA  
