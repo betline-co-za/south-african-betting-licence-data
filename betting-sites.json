@@ -43,11 +43,28 @@
       "betlineProfile": "https://betline.co.za/compare-betting-sites/hollywoodbets/"
     },
     {
+  "bettingSite": "Shayabets",
+  "companies": [
+    {
+      "companyName": "Shayabets Eastern Cape (Pty) Ltd",
+      "companyRegistrationNumber": "2025/743888/07",
+      "licences": [
+        {
+          "province": "Eastern Cape",
+          "gamblingBoard": "Eastern Cape Gambling Board",
+          "licenceNumber": "ECBM 065"
+        }
+      ]
+    }
+  ],
+  "betlineProfile": "https://betline.co.za/compare-betting-sites/shayabets/"
+},
+    {
       "bettingSite": "Carousel",
       "companies": [
         {
-          "companyName": "Carousel Bet (Pty) Ltd",
-          "companyRegistrationNumber": "2022/4591/07",
+          "companyName": "Carousel Bets (Pty) Ltd",
+          "companyRegistrationNumber": "2022/459491/07",
           "licences": [
             {
               "province": "North West",
@@ -103,7 +120,7 @@
       "companies": [
         {
           "companyName": "K2025281680 (Pty) Ltd",
-          "companyRegistrationNumber": "2025/81680/07",
+          "companyRegistrationNumber": "2025/281680/07",
           "licences": [
             {
               "province": "Eastern Cape",
@@ -341,7 +358,7 @@
       "companies": [
         {
           "companyName": "WSB FS (Pty) Ltd",
-          "companyRegistrationNumber": "018/498267/07",
+          "companyRegistrationNumber": "2018/498267/07",
           "licences": [
             {
               "province": "Mpumalanga",
@@ -443,7 +460,7 @@
       "companies": [
         {
           "companyName": "Hatsy Pty Ltd t/a Topbet",
-          "companyRegistrationNumber": "2021/ 566466/ 07",
+          "companyRegistrationNumber": "2021/566646/07",
           "licences": [
             {
               "province": "Western Cape",
