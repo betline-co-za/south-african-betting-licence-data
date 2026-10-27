@@ -77,6 +77,23 @@
       "betlineProfile": "https://betline.co.za/compare-betting-sites/carousel/"
     },
     {
+      "bettingSite": "BetJets",
+      "companies": [
+        {
+          "companyName": "BetJets (Pty) Ltd",
+          "companyRegistrationNumber": "2023/128755/07",
+          "licences": [
+            {
+              "province": "Western Cape",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
+              "licenceNumber": "10091157-108"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betjets/"
+    },
+    {
       "bettingSite": "WorldofSport",
       "companies": [
         {
