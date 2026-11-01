@@ -6,7 +6,7 @@
   },
   "country": "South Africa",
   "countryCode": "ZA",
-  "lastUpdated": "2026-10-01",
+  "lastUpdated": "2026-11-02",
   "bettingSites": [
     {
       "bettingSite": "Betway",
@@ -101,13 +101,13 @@
           "companyRegistrationNumber": "2001/023647/07",
           "licences": [
             {
-              "province": "Kwa-Zulu Natal",
-              "gamblingBoard": "Kwa-Zulu Natal Economic Regulator",
+              "province": "KwaZulu-Natal",
+              "gamblingBoard": "KwaZulu-Natal Economic Regulator",
               "licenceNumber": "2001/023647/07"
             },
             {
-              "province": "Kwa-Zulu Natal",
-              "gamblingBoard": "Kwa-Zulu Natal Gaming and Betting Board",
+              "province": "KwaZulu-Natal",
+              "gamblingBoard": "KwaZulu-Natal Gaming and Betting Board",
               "licenceNumber": "2001/023647/07"
             }
           ]
@@ -218,7 +218,7 @@
       "betlineProfile": "https://betline.co.za/compare-betting-sites/easybet/"
     },
     {
-      "bettingSite": "Bet",
+      "bettingSite": "Bet.co.za",
       "companies": [
         {
           "companyName": "Betcoza Online (Pty) Ltd",
@@ -226,7 +226,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10145732-016"
             }
           ]
@@ -371,7 +371,7 @@
       "betlineProfile": "https://betline.co.za/compare-betting-sites/betolimp/"
     },
     {
-      "bettingSite": "WorldSportsBetting",
+      "bettingSite": "World Sports Betting",
       "companies": [
         {
           "companyName": "WSB FS (Pty) Ltd",
@@ -515,7 +515,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Racing and Gambling Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10190512"
             }
           ]
@@ -532,7 +532,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Racing and Gambling Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10185705"
             }
           ]
@@ -634,7 +634,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10010453"
             }
           ]
@@ -668,7 +668,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10189800-001"
             }
           ]
@@ -685,7 +685,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10191936"
             }
           ]
@@ -770,7 +770,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10181847-012"
             }
           ]
@@ -787,7 +787,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10191097"
             }
           ]
@@ -804,7 +804,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10185107"
             }
           ]
@@ -838,7 +838,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10125193-020"
             }
           ]
@@ -923,7 +923,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10010581-031"
             }
           ]
@@ -940,7 +940,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10190075-006"
             }
           ]
@@ -957,7 +957,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10194613-001"
             }
           ]
@@ -991,7 +991,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10195102-002"
             }
           ]
@@ -1008,7 +1008,7 @@
           "licences": [
             {
               "province": "Western Cape",
-              "gamblingBoard": "Western Cape Gambling & Racing Board",
+              "gamblingBoard": "Western Cape Gambling and Racing Board",
               "licenceNumber": "10193252-002"
             }
           ]
