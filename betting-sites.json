@@ -7,6 +7,7 @@
   "country": "South Africa",
   "countryCode": "ZA",
   "lastUpdated": "2026-11-02",
+  "scope": "This dataset lists selected company and licence details relevant to each betting brand to assist verification. It is not intended to catalogue every related company or every licence held by those companies.",
   "bettingSites": [
     {
       "bettingSite": "Betway",
