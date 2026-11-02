@@ -69,7 +69,7 @@
             {
               "province": "North West",
               "gamblingBoard": "North West Gambling Board",
-              "licenceNumber": "2022/4591/07"
+              "licenceNumber": "Certificate linked in footer"
             }
           ]
         }
@@ -93,28 +93,24 @@
       ],
       "betlineProfile": "https://betline.co.za/compare-betting-sites/betjets/"
     },
+{
+  "bettingSite": "WorldofSport",
+  "companies": [
     {
-      "bettingSite": "WorldofSport",
-      "companies": [
+      "companyName": "Marshalls World of Sport KZN 2 (Pty) Ltd",
+      "companyRegistrationNumber": "2001/023647/07",
+      "licences": [
         {
-          "companyName": "Marshalls World of Sport KZN 2 (Pty) Ltd",
-          "companyRegistrationNumber": "2001/023647/07",
-          "licences": [
-            {
-              "province": "KwaZulu-Natal",
-              "gamblingBoard": "KwaZulu-Natal Economic Regulator",
-              "licenceNumber": "2001/023647/07"
-            },
-            {
-              "province": "KwaZulu-Natal",
-              "gamblingBoard": "KwaZulu-Natal Gaming and Betting Board",
-              "licenceNumber": "2001/023647/07"
-            }
-          ]
+          "province": "KwaZulu-Natal",
+          "gamblingBoard": "KwaZulu-Natal Gaming and Betting Board",
+"licenceNumber": "Not stated in operator footer",
+"licenceNote": "Licence number not separately identified in the operator's footer."
         }
-      ],
-      "betlineProfile": "https://betline.co.za/compare-betting-sites/marshalls-world-of-sport/"
-    },
+      ]
+    }
+  ],
+  "betlineProfile": "https://betline.co.za/compare-betting-sites/marshalls-world-of-sport/"
+},
     {
       "bettingSite": "Betify",
       "companies": [
@@ -295,7 +291,7 @@
             {
               "province": "Northern Cape",
               "gamblingBoard": "Northern Cape Gambling Board",
-              "licenceNumber": "number not publicly available"
+              "licenceNumber": "Certificate linked in footer"
             }
           ]
         }
@@ -550,7 +546,7 @@
             {
               "province": "Northern Cape",
               "gamblingBoard": "Northern Cape Gambling Board",
-              "licenceNumber": "number not publicly available"
+              "licenceNumber": "Certificate linked in footer"
             }
           ]
         }
@@ -646,7 +642,7 @@
       "bettingSite": "eBet",
       "companies": [
         {
-          "companyName": "Ebet (Pty) Ltd",
+          "companyName": "Betify (Pty) Ltd T/A eBet",
           "companyRegistrationNumber": "2020/217830/07",
           "licences": [
             {
