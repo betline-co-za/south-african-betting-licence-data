@@ -2,6 +2,8 @@
 
 Structured company and bookmaker licence information for locally licensed South African betting sites, maintained by Betline.co.za.
 
+**Dataset last updated:** 02 October 2026
+
 ## About
 
 This repository provides machine-readable information about locally licensed South African betting sites and the legal companies and bookmaker licences associated with them.
@@ -77,6 +79,16 @@ Licence, company and regulatory information can change. Information in this repo
 Each record includes a `betlineProfile` URL linking to the corresponding operator profile on Betline.co.za.
 
 These profiles provide additional information about individual betting sites beyond the structured company and licence information contained in this dataset.
+
+## A Note from the Publisher
+
+I maintain this public GitHub dataset as a courtesy to anyone interested in South African betting licence information. It is a separate reference resource and is not the same dataset used for other projects, tools or internal research.
+
+Although I make every effort to keep the information accurate and up to date, this GitHub dataset is reviewed and updated periodically, not in real time.
+
+Company details, bookmaker licences and regulatory information can change between updates. For this reason, anyone using or relying on this dataset should independently verify the information with the relevant provincial gambling authority, the National Gambling Board or CIPC before using it.
+
+The information is provided in good faith as a public reference resource, but I cannot guarantee that every record will be accurate or current at the time it is accessed.
 
 ## Publisher
 
