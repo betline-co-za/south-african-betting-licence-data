@@ -2,7 +2,7 @@
 
 Structured company and bookmaker licence information for locally licensed South African betting sites, maintained by Betline.co.za.
 
-**Dataset last updated:** 02 October 2026
+**Dataset last updated:** 08 November 2026
 
 ## About
 
