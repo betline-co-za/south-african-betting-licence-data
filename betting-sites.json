@@ -6,7 +6,7 @@
   },
   "country": "South Africa",
   "countryCode": "ZA",
-  "lastUpdated": "2026-12-08",
+  "lastUpdated": "2026-11-23",
   "scope": "This dataset lists selected company and licence details relevant to each betting brand to assist verification. It is not intended to catalogue every related company or every licence held by those companies.",
   "bettingSites": [
     {
@@ -995,6 +995,23 @@
         }
       ],
       "betlineProfile": "https://betline.co.za/compare-betting-sites/neobet/"
+    },
+    {
+      "bettingSite": "BetCity",
+      "companies": [
+        {
+          "companyName": "BetCity (Pty) Ltd",
+          "companyRegistrationNumber": "2025/614278/07",
+          "licences": [
+            {
+              "province": "Mpumalanga",
+              "gamblingBoard": "Mpumalanga Economic Regulator",
+              "licenceNumber": "9-2-1-09955"
+            }
+          ]
+        }
+      ],
+      "betlineProfile": "https://betline.co.za/compare-betting-sites/betcity/"
     },
     {
       "bettingSite": "SwiftySports",
